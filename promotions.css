@@ -1,0 +1,43 @@
+@font-face {
+    font-family: header;
+    src: url(norwester.otf);
+}
+@font-face {
+    font-family: bodybold;
+    src: url(Arimo-Bold.ttf);
+}
+@font-face {
+    font-family: bodybolditalic;
+    src: url(Arimo-BoldItalic.ttf);
+}
+@font-face {
+    font-family: bodyitalic;
+    src: url(Arimo-Italic.ttf);
+}
+@font-face {
+    font-family: body;
+    src: url(Arimo-Regular.ttf);
+}
+
+.title{
+    position:absolute;
+    bottom: 45%;
+    left:40%;
+    font-family: header;
+    font-size:40px;
+    color:white;
+}
+@media (min-width: 1200px){
+	.promotions .col-xl-5 {
+		width: 45%;
+	}
+}
+@media (min-width: 768px){
+	.promotions .col-md-5 {
+		width: 50%;
+	}
+}
+
+.promotions .h-100 {
+    height: unset !important;
+}
