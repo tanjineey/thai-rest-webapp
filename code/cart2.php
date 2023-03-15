@@ -56,7 +56,7 @@ if (isset($_GET['buy'])) {
                           <a href="Mains.php">Mains</a>
                           <a href="Dessert.php">Dessert</a>
                           <a href="Dessert.php">Beverages</a>
-                          <a href="reserve.php">Reserving</a>
+                          <a href="reserve.php">Reserved</a>
 
                         </div>
                     </li>
