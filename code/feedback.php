@@ -71,7 +71,9 @@
                           <a href="bundles.php">Bundles</a>
                           <a href="Soup.php">Soup</a>
                           <a href="Mains.php">Mains</a>
-                          <a href="Dessert.php">Dessert/Beverages</a>
+                          <a href="Dessert.php">Dessert</a>
+                          <a href="Dessert.php">Beverages</a>
+
                         </div>
                     </li>
                     <a href="promotions.html">Promotions</a>
